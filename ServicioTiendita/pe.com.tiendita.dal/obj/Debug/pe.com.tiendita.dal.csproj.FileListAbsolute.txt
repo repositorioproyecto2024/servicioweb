@@ -1,0 +1,9 @@
+C:\ISIL-5\desarrollo de aplicaciones2\sem2\laboratorio\ServicioTiendita\pe.com.tiendita.dal\bin\Debug\pe.com.tiendita.dal.dll
+C:\ISIL-5\desarrollo de aplicaciones2\sem2\laboratorio\ServicioTiendita\pe.com.tiendita.dal\bin\Debug\pe.com.tiendita.dal.pdb
+C:\ISIL-5\desarrollo de aplicaciones2\sem2\laboratorio\ServicioTiendita\pe.com.tiendita.dal\bin\Debug\pe.com.tiendita.bo.dll
+C:\ISIL-5\desarrollo de aplicaciones2\sem2\laboratorio\ServicioTiendita\pe.com.tiendita.dal\bin\Debug\pe.com.tiendita.bo.pdb
+C:\ISIL-5\desarrollo de aplicaciones2\sem2\laboratorio\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.tiendita.dal.csproj.AssemblyReference.cache
+C:\ISIL-5\desarrollo de aplicaciones2\sem2\laboratorio\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.tiendita.dal.csproj.CoreCompileInputs.cache
+C:\ISIL-5\desarrollo de aplicaciones2\sem2\laboratorio\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.tiendita.dal.csproj.CopyComplete
+C:\ISIL-5\desarrollo de aplicaciones2\sem2\laboratorio\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.tiendita.dal.dll
+C:\ISIL-5\desarrollo de aplicaciones2\sem2\laboratorio\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.tiendita.dal.pdb
